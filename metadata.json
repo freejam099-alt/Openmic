@@ -1,0 +1,6 @@
+{
+  "name": "CYOA Adventure",
+  "description": "An infinite choose-your-own-adventure engine with real-time AI story choices, visual dynamic character generation, and live inventory/quest tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
